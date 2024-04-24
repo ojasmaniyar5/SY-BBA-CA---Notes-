@@ -1,4 +1,4 @@
-# SY-BBA-CA---Notes
+# SY-BBA(CA)-(Notes)
 SY-BBA(CA) - (Notes) 
 
 Subject :- NW, CPP, OS, Adv PHP. 
