@@ -1,5 +1,5 @@
-# SY-BBA(CA)-(Notes)
-SY-BBA(CA) - (Notes) 
+# SY-BBA(CA)-(Notes/Solved QP)
+SY-BBA(CA) - (Notes/Solved QP) 
 
 Subject :- NW, CPP, OS, Adv PHP. 
 
